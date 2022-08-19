@@ -75,3 +75,20 @@ form {
 .alert {
     text-align: center;
 }
+
+#navbar1 {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.d-flex {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+
+.item {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
